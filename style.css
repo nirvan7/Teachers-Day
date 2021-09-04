@@ -1,0 +1,46 @@
+
+.menu,.bodyimg {
+background-color: #48f350;
+justify-content: center;
+font-size: 20px;
+font-family: cursive;
+font-weight: 400;
+color:#fe22aa;
+border: 2px solid #fe7a22e5;;
+position: relative;
+}
+
+h2{
+text-align: center;
+}
+h3{
+    text-align: center;
+    }
+.about{
+display:flex;
+justify-content: flex-end;
+
+}
+
+body{
+margin:0px;
+background-color: light
+blue;
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+    background-color: #d6fe22e5;
+    border: 2px solid #fe7a22e5;
+  }
+  .msg {
+    position: absolute;
+    color: black;
+    top: 15px;
+    left: 750px;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 400;
+  }
